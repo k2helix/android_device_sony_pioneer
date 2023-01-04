@@ -1,3 +1,6 @@
+# Bluetooth
+bluetooth.device.default_name=Xperia XA2
+
 # Chipset
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SDM630
